@@ -47,8 +47,6 @@ Clone the project and access the folder
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 Demonstration project, link page [Demonstration](https://israel206.github.io/Demo-Formulario/)
 ---
 
